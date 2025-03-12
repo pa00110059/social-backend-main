@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4a69b778-7e47-46fa-a554-7d7b2aa58da4)
+
 # SocialMediaProject
 ## 前端與後端程式碼
 
@@ -33,3 +35,4 @@
 - **MD5** 用於使用者密碼加密  
 - **JWT** 用於 token 的生成與驗證  
 - **Jackson** 用於 JSON 轉換  
+
